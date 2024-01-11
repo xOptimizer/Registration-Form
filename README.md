@@ -19,5 +19,5 @@ A simple registration form implementation using the MERN (MongoDB, Express.js, R
 - ### Installation
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/xOptimizer/Registration-Form.git
    cd mern-registration-form
